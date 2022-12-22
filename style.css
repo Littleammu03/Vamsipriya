@@ -1,0 +1,117 @@
+
+
+
+
+body{
+	background: url(white.jpg) ;
+	margin: 0px;
+	padding: 0;
+	width: 100%;
+	background-size: cover;
+	font-family: sans-serif;
+	
+}
+h1{
+	
+	text-align: center;
+	font-family: fantasy;
+	
+}
+h2{
+	text-align: center;
+	color: blue;
+
+}
+h3{text-align: center;
+	color: red;
+}
+.c1{
+	text-align: center;
+	font-family: cursive;
+	font-size: large;
+}
+.c2{
+	text-align: center;
+    font-family: fantasy;
+    color: blue;
+    font-size: large;
+	
+}
+.c3{
+	text-align: center;
+	font-family: monospace;
+	font-size: x-large;
+	
+}
+.c4{
+	text-align: center;
+	font-size: x-large;
+	font-family: fantasy;
+	color: royalblue;
+	
+}
+.c5{
+	text-align: center;
+	font-family: cursive;
+	font-size: large;
+	
+}
+.c6{
+	text-align: center;
+	font-family:monospace ;
+	font-size: large;
+	color: blueviolet;
+
+}
+.c7{
+	text-align: center;
+	font-size: large;
+	color: skyblue;
+	font-family: fantasy;
+
+
+	
+}
+.c8{
+	text-align: center;
+	font-size: large;
+	
+}
+.c9{
+	text-align: center;
+	font-size: large;
+	color: red;
+	font-family: cursive;
+}
+.c10{
+	text-align: center;
+	font-size: large;
+	font-family: monospace;
+	color: white;
+}
+h1 a{
+	color:gray ;
+	;
+}
+h1 b{
+	color: blue;
+	font-family: monospace
+}
+h1 d{
+	color:rgb(142, 30, 67) ;
+
+}
+h1 c{
+	color: white;
+}
+.c12{
+	text-align: center;
+	font-family: monospace;
+	font-size: x-large;
+	color:rgb(166, 213, 57) ;
+}
+h1 e{
+	text-align: center;
+	color:rgb(234, 221, 27) ;
+	font-family: cursive;
+}
